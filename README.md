@@ -1,2 +1,3 @@
 # Hello-Touhou-Training-Github
-Just a test repository
+Just a test repositor
+IZAYOI SAKUYA creation
